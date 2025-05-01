@@ -1,0 +1,19 @@
+name: Git Config Sync
+version: "0.0.1"
+slug: git-config-sync
+description: Synchronize home assistant config from a git repository
+url: "https://github.com/wesleygrimes/ha-addons/tree/main/git-config-sync"
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+init: false
+map:
+  - share:rw
+options:
+  repo_url: "https://github.com/wesleygrimes/ha-config.git"
+schema:
+  message: "str?"
+#image: "ghcr.io/home-assistant/{arch}-addon-example"

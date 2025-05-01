@@ -1,6 +1,6 @@
-# Home Assistant Add-on: Example add-on
+# Wesley's Personal Collection of Home Assistant Add-ons: Git Config Sync
 
-_Example add-on to use as a blueprint for new add-ons._
+_Synchronize home assistant config from a git repository_
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
