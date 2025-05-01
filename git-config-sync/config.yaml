@@ -13,7 +13,9 @@ init: false
 map:
   - share:rw
 options:
-  repo_url: "https://github.com/wesleygrimes/ha-config.git"
+  repo_url: ""
+  repo_branch: "main"
 schema:
-  message: "str?"
+  repo_url: str
+  repo_branch: str
 #image: "ghcr.io/home-assistant/{arch}-addon-example"
