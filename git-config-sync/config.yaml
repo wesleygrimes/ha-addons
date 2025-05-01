@@ -1,5 +1,5 @@
 name: Git Config Sync
-version: "0.0.1"
+version: "0.0.2"
 slug: git-config-sync
 description: Synchronize home assistant config from a git repository
 url: "https://github.com/wesleygrimes/ha-addons/tree/main/git-config-sync"
